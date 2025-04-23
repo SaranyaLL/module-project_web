@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "data": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "+123456789",
+        "address": "123 Elm Street, Springfield, USA",
+        "profile_picture": "profile_images/john_doe.jpg"
+    }
+}
